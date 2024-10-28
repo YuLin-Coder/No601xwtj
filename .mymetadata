@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xwtj"
+  id="myeclipse.1429027005230"
+  context-root="/xwtj"
+  j2ee-spec="1.4"
+  archive="xwtj.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

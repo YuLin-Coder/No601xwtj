@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/action/AdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/AfficheServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/ComServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/LoginAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/MemberAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/MemberManageAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/NewsServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/AdminBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/AfficheBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/ComBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/MemberBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/MemberManageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/NewsBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/SystemBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/CheckCode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Common.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/DBO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Log.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/MD5.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
